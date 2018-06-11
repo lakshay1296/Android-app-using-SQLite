@@ -5,6 +5,11 @@ Android App which uses SQLite Database to store and retrieve data.
 
 <img src = "https://github.com/lakshay1296/Android-app-using-SQLite/blob/master/Screenshot_1528349407.png" height = "520" width = "300" />  <img src = "https://github.com/lakshay1296/Android-app-using-SQLite/blob/master/Screenshot_1528349424.png" height = "520" width = "300" />
 
+<h2>Wearable Screenshots</h2>
+
+<img src = "https://github.com/lakshay1296/Android-app-using-SQLite/blob/master/WearSS.png" height = "240" width = "240" /> <img src = "https://github.com/lakshay1296/Android-app-using-SQLite/blob/master/Noti.gif" height = "240" width = "240" />
+
+
 <h2><b>Features</b></h2>
 
 1. Add new data
@@ -20,6 +25,8 @@ Android App which uses SQLite Database to store and retrieve data.
 6. Automatic Date and Time insertion
 
 7. Easy to implement and make changes
+
+8. Android OS and Wear OS Notifications with vibration and sound.
 
 <h2><b>How to use</b></h2>
 
@@ -56,3 +63,7 @@ Here, integer 2 mentions the version.
 contentValues.put( "Column name which is defined in database", "value of the method which you need to insert in the column of DB, For eg. name" );
 ```
 That's it! It's a very simple app which helps you in understanding the concept of implementing SQLite Database in an Android application.
+
+<h2>License</h2>
+
+You are free to use this app for your project.
